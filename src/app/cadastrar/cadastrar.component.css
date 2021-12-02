@@ -1,0 +1,11 @@
+#img-bg{
+    background-image: url('https://legislacaoemercados.capitalaberto.com.br/wp-content/uploads/2020/12/Tributa%C3%A7%C3%A3o-de-ajuda-de-custo-a-funcion%C3%A1rio-em-home-office-durante-a-pandemia-01.png');
+   
+    min-height: 100vh;
+
+    background-position: center;
+    
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+}
